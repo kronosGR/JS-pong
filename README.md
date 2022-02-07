@@ -7,6 +7,6 @@
 
 
 ## Live site
-https://
+https://kronosgr.github.io/JS-pong/
 
-[![Screenshot](screenshot.png)](https://)
+[![Screenshot](screenshot.png)](https://kronosgr.github.io/JS-pong/)
